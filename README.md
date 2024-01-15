@@ -15,19 +15,16 @@ To use the expert system, follow these steps:
 2. **Data Input**: Input patient data as required by the system for diagnosis.
 3. **Execution**: Run the main script or application to trigger the diagnostic process.
 4. **Result Interpretation**: Receive the diagnosis or recommendations based on the provided inputs.
-\
+
 ## Structure
 The repository structure is as follows:
 - **/data**: Contains datasets and sample data for testing and validation.
 - **/models**: Houses the machine learning model used for predictive analysis.
-- **/src**: Includes the source code for the expert system, including the forward chaining inference engine and the integration of expert advice.
+- **/src**: Includes the source code for the expert system, including the forward chaining inference engine and the integration of expert advice. - Please refer to doctor_guidelines.ipynb
 - **/docs**: Additional documentation or reports associated with the project.
 
 
 
-\
-\
-\
-\
-\
+
+
 }
